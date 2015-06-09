@@ -1,6 +1,6 @@
 {
   "name": "starmapjs",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Starmap makes client-side Waterline/Sails easy!",
   "main": "lib/index.js",
   "scripts": {
