@@ -1,6 +1,6 @@
 {
   "name": "starmapjs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Starmap makes client-side Waterline/Sails easy!",
   "main": "lib/index.js",
   "scripts": {
@@ -25,12 +25,14 @@
     "url": "https://github.com/mrfishie/starmap/issues"
   },
   "homepage": "https://github.com/mrfishie/starmap",
-  "devDependencies": {
+  "dependencies": {
     "bluebird": "^2.9.27",
+    "lodash": "^3.9.3"
+  },
+  "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-browserify": "^3.8.0",
     "grunt-contrib-clean": "^0.6.0",
-    "lodash": "^3.9.3",
     "uglifyify": "^3.0.1"
   }
 }
