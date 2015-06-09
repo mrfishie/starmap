@@ -1,0 +1,31 @@
+{
+  "name": "starmap",
+  "version": "0.1.0",
+  "authors": [
+    "mrfishie <mrfishie101@hotmail.com>"
+  ],
+  "description": "Starmap makes client-side Waterline/Sails easy!",
+  "main": "dist/starmap.js",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "sails",
+    "waterline",
+    "starmap",
+    "live",
+    "update",
+    "auto",
+    "magic"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mrfishie/starmap",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
